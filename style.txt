@@ -1,0 +1,13 @@
+st.markdown("""
+<style>
+h1 {
+    color: #2E86C1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4 {
+    color: #117A65;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+</style>
+""", unsafe_allow_html=True)
+

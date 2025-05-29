@@ -1,0 +1,4 @@
+from PIL import Image
+
+logo = Image.open("logo.png")
+st.image(logo, width=150)  # Width adjust kar sakte hain
